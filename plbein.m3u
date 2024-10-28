@@ -1,67 +1,49 @@
 #EXTM3U
-#EXTINF:-1,US: beIN Sports
-http://filex.tv:8080/saad600/600789003/291592
-#EXTINF:-1,US: beIN Sports 2
-http://filex.tv:8080/saad600/600789003/291593
-#EXTINF:-1,US: beIN Sports 3
-http://filex.tv:8080/saad600/600789003/291594
-#EXTINF:-1,US: beIN Sports 4
-http://filex.tv:8080/saad600/600789003/291595
-#EXTINF:-1,US: beIN Sports 5
-http://filex.tv:8080/saad600/600789003/291596
-#EXTINF:-1,US: beIN Sports 6
-http://filex.tv:8080/saad600/600789003/291597
-#EXTINF:-1,US: beIN Sports 7
-http://filex.tv:8080/saad600/600789003/291598
-#EXTINF:-1,US: beIN Sports USA
-http://filex.tv:8080/saad600/600789003/291599
-#EXTINF:-1,US: Big Ten Network
-http://filex.tv:8080/saad600/600789003/291600
-#EXTINF:-1,US: CBS Sports Network
-http://filex.tv:8080/saad600/600789003/291601
-#EXTINF:-1,US: Eleven Sports
-http://filex.tv:8080/saad600/600789003/291602
-#EXTINF:-1,US: ESPN
-http://filex.tv:8080/saad600/600789003/291603
-#EXTINF:-1,US: ESPN 2
-http://filex.tv:8080/saad600/600789003/291604
-#EXTINF:-1,US: ESPN 3
-http://filex.tv:8080/saad600/600789003/291605
-#EXTINF:-1,US: ESPN News
-http://filex.tv:8080/saad600/600789003/291606
-#EXTINF:-1,US: ESPNU
-http://filex.tv:8080/saad600/600789003/291607
-#EXTINF:-1,US: FIGHT BOX
-http://filex.tv:8080/saad600/600789003/291608
-#EXTINF:-1,US: FIGHT Sports
-http://filex.tv:8080/saad600/600789003/291609
-#EXTINF:-1,US: Fox Soccer Plus
-http://filex.tv:8080/saad600/600789003/291610
-#EXTINF:-1,US: FOX SPORTS 506
-http://filex.tv:8080/saad600/600789003/291611
-#EXTINF:-1,US: FOX SPORTS Racing
-http://filex.tv:8080/saad600/600789003/291612
-#EXTINF:-1,US: FS1
-http://filex.tv:8080/saad600/600789003/291613
-#EXTINF:-1,PK | QURAN MUJEED HD
-http://filex.tv:8080/saad600/600789003/311
-#EXTINF:-1,PK | MAKKAH TV HD
-http://filex.tv:8080/saad600/600789003/52112
-#EXTINF:-1,PK | NOOR TV HD
-http://filex.tv:8080/saad600/600789003/141305
-#EXTINF:-1,PK | SAUDI SUNNAH HD
-http://filex.tv:8080/saad600/600789003/247145
-#EXTINF:-1,PK | MADANI CHANNEL HD
-http://filex.tv:8080/saad600/600789003/247146
-#EXTINF:-1,PK | AHLEBAIT TV HD
-http://filex.tv:8080/saad600/600789003/247148
-#EXTINF:-1,PK | HADI TV HD
-http://filex.tv:8080/saad600/600789003/247149
-#EXTINF:-1,PK | ARY QTV HD
-http://filex.tv:8080/saad600/600789003/247150
-#EXTINF:-1,PK | PEACE TV URDU HD
-http://filex.tv:8080/saad600/600789003/247151
-#EXTINF:-1,PK | PEACE TV ENG HD
-http://filex.tv:8080/saad600/600789003/247152
-#EXTINF:-1,PK | PAIGHAM TV URDU HD
-http://filex.tv:8080/saad600/600789003/247153
+#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/قصص آيات القرآن.jpeg" ,|قصص آيات القرآن |قصص
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131281
+#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/أالسيرة_النبوية.jpg" ,|الــســيــرة الــنـبـــويـة |قصص
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131297
+#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/9iasas.jpg" ,|قصص الانبياء في القرآن |قصص
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131289
+#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/sahaba.jpg" ,|قـصـص الصـحـابــة  |قصص
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131869
+#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/قصص النساء في القرآن.jpg" ,|قصص النساء في القرآن |قصص
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131282
+#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/3aja2ib.jpeg" ,|قصص العجائب في القرآن |قصص
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131287
+#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/hayawan.png" ,|قصص الحيوان في القرآن |قصص
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131283
+#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,الشيخ عبد الباسط عبد الصمد مجود
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/150449
+#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,Saad Al Ghamidi   سعد الغامدي
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/122892
+#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,Omar Al Qzabri   عمر القزابري
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/122891
+#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,Mishary bin Rashid Alafasy  مشاري بن راشد العفاسي
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/122956
+#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,Maher al Muaiqly   ماهر المعيقلي
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/122890
+#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,Abdulbasit Abdulsamad   عبد الباسط عبد الصمد
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/122889
+#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,Abdul Rahman  Al Sudais  عبدالرحمن السديس
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/122896
+#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" tvg-id="beinsportsnews.qa" ,beIN Sports News HD
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/28939
+#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" tvg-id="beinsportsnews.qa" ,beIN Sports News UHD
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/44
+#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" tvg-id="beinsportsglobal.qa" ,beIN Sports Global HD
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/28938
+#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" tvg-id="beinsportsglobal.qa" ,beIN Sports Global UHD
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/43
+#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BIN4K.png" tvg-id="beinsports4k.qa" ,beIN. ULTRA UHD
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/312095
+#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" ,beIN REPLAY FINAL UCL
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/235750
+#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" ,beIN REPLAY FINAL FA CUP
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/235755
+#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN.TOD/tod360.png" ,TOD 360 HD
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/341757
+#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" tvg-id="beinsports1.qa" ,beIN Sports 1 HD
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/1
+#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" tvg-id="beinsportsmax1.qa" ,beIN Sports 1 ᵁᴴᴰ
+http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/534831
