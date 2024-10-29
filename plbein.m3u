@@ -1,49 +1,43 @@
 #EXTM3U
-#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/قصص آيات القرآن.jpeg" ,|قصص آيات القرآن |قصص
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131281
-#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/أالسيرة_النبوية.jpg" ,|الــســيــرة الــنـبـــويـة |قصص
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131297
-#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/9iasas.jpg" ,|قصص الانبياء في القرآن |قصص
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131289
-#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/sahaba.jpg" ,|قـصـص الصـحـابــة  |قصص
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131869
-#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/قصص النساء في القرآن.jpg" ,|قصص النساء في القرآن |قصص
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131282
-#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/3aja2ib.jpeg" ,|قصص العجائب في القرآن |قصص
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131287
-#EXTINF:-1 group-title="AR| قـــصـــص القـــــران" tvg-logo="http://138.199.27.237:8080/KIDS/hayawan.png" ,|قصص الحيوان في القرآن |قصص
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/131283
-#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,الشيخ عبد الباسط عبد الصمد مجود
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/150449
-#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,Saad Al Ghamidi   سعد الغامدي
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/122892
-#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,Omar Al Qzabri   عمر القزابري
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/122891
-#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,Mishary bin Rashid Alafasy  مشاري بن راشد العفاسي
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/122956
-#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,Maher al Muaiqly   ماهر المعيقلي
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/122890
-#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,Abdulbasit Abdulsamad   عبد الباسط عبد الصمد
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/122889
-#EXTINF:-1 group-title="AR| QURAN" tvg-logo="http://138.199.27.237:8080/ARABE/quran.png" ,Abdul Rahman  Al Sudais  عبدالرحمن السديس
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/122896
-#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" tvg-id="beinsportsnews.qa" ,beIN Sports News HD
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/28939
-#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" tvg-id="beinsportsnews.qa" ,beIN Sports News UHD
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/44
-#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" tvg-id="beinsportsglobal.qa" ,beIN Sports Global HD
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/28938
-#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" tvg-id="beinsportsglobal.qa" ,beIN Sports Global UHD
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/43
-#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BIN4K.png" tvg-id="beinsports4k.qa" ,beIN. ULTRA UHD
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/312095
-#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" ,beIN REPLAY FINAL UCL
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/235750
-#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" ,beIN REPLAY FINAL FA CUP
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/235755
-#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN.TOD/tod360.png" ,TOD 360 HD
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/341757
-#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" tvg-id="beinsports1.qa" ,beIN Sports 1 HD
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/1
-#EXTINF:-1 group-title="BEIN SPORT HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" tvg-id="beinsportsmax1.qa" ,beIN Sports 1 ᵁᴴᴰ
-http://m3u.tz-m3u.info/hil_586844/SAW3R8tl/534831
+#EXTINF:0 tvg-country="DZ;EG;MA;US" tvg-logo="https://i.imgur.com/1S4Y4xC.png" group-title="Religious",ABN Africa (480p)
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ;AO;EG;MA" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Sport",Africa 24 English (1080p),Africa 24 Sport (1080p)
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Al Aoula International (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Al Aoula Laayoune (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Al Maghribia (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ;BH;EG;IQ;KW;MA;OM;PS;YE" tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="Undefined",Al Qamar TV (360p)
+https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ;BH;EG;IQ;KW;MA;PS;SA;AE" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News",Alaraby 2 TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Arrabiaa (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Arryadia (360p) [Not 24/7]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Assadissa (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ;BH;EG;MA;OM;PS;YE" tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="General",Dubai One (1080p)
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="News",M24 TV (720p) [Not 24/7]
+https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="News",Medi 1 TV Afrique (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/gHwCFb0.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Medi 1 TV Afrique (1080p) [Not 24/7]
+https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Medi 1 TV Arabic (1080p) [Not 24/7]
+https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Medi 1 TV Maghreb (1080p) [Not 24/7]
+https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Tamazight (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="Undefined",Télé Maroc (1080p)
+https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8?checkedby:iptvcat.com
