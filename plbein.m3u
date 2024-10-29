@@ -1,43 +1,81 @@
 #EXTM3U
-#EXTINF:0 tvg-country="DZ;EG;MA;US" tvg-logo="https://i.imgur.com/1S4Y4xC.png" group-title="Religious",ABN Africa (480p)
-https://mediaserver.abnvideos.com/streams/abnafrica.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DZ;AO;EG;MA" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Sport",Africa 24 English (1080p),Africa 24 Sport (1080p)
-https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Al Aoula International (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Al Aoula Laayoune (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Al Maghribia (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DZ;BH;EG;IQ;KW;MA;OM;PS;YE" tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="Undefined",Al Qamar TV (360p)
-https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DZ;BH;EG;IQ;KW;MA;PS;SA;AE" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News",Alaraby 2 TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Arrabiaa (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Arryadia (360p) [Not 24/7]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Assadissa (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DZ;BH;EG;MA;OM;PS;YE" tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="General",Dubai One (1080p)
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="News",M24 TV (720p) [Not 24/7]
-https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="News",Medi 1 TV Afrique (1080p)
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/gHwCFb0.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
-https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Medi 1 TV Afrique (1080p) [Not 24/7]
-https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
-https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Medi 1 TV Arabic (1080p) [Not 24/7]
-https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
-https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Medi 1 TV Maghreb (1080p) [Not 24/7]
-https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Tamazight (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="Undefined",Télé Maroc (1080p)
-https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/306.ts
+#EXTINF:-1,BeinSport2
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/307.ts
+#EXTINF:-1,BeinSport3
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/308.ts
+#EXTINF:-1,BeinSport4
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/309.ts
+#EXTINF:-1,BeinSport4
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/310.ts
+#EXTINF:-1,BeinSport5
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/311.ts
+#EXTINF:-1,BeinSport6
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/312.ts
+#EXTINF:-1,BeinSport7
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/313.ts
+#EXTINF:-1,BEIN SPORTS7
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/315.ts
+#EXTINF:-1,BeinSport8
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/314.ts
+#EXTINF:-1,BEIN SPORTS10
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/316.ts
+
+
+#EXTINF:-1,BEIN Sports xtra1
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/618.ts
+#EXTINF:-1,Bein Sport xtra2
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/619.ts
+#EXTINF:-1,ssc news ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/317.ts
+#EXTINF:-1,ssc 1 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/318.ts
+#EXTINF:-1,ssc 2 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/319.ts
+#EXTINF:-1,ssc 3 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/320.ts
+#EXTINF:-1,ssc 4 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/321.ts
+#EXTINF:-1,ssc 5 ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/322.ts
+#EXTINF:-1,ssc 1 extra ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/323.ts
+#EXTINF:-1,ssc 2 extra ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/324.ts
+#EXTINF:-1,ssc 3 extra ᴴᴰ
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/325.ts
+#EXTINF:-1,AR: Abu Dhabi Sport PREMIUM 1 HD
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/591.ts
+#EXTINF:-1,AR: Abu Dhabi Sport PREMIUM 2 HD
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/592.ts
+#EXTINF:-1,AR: Abu Dhabi Sport 1 ASIA HD
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/593.ts
+#EXTINF:-1,AR: Abu Dhabi Sport 2 ASIA HD
+#EXTVLCOPT:http-user-agent=airmaxtv
+https://airmax.boats:443/airmaxtvMAX/airmaxtvXAM/594.ts
